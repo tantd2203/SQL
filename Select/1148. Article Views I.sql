@@ -1,4 +1,5 @@
-CREATE TABLE article_views (
+SELECT * FROM leetcode.views;
+CREATE TABLE views (
     article_id INT,
     author_id INT,
     viewer_id INT,
@@ -13,3 +14,8 @@ INSERT INTO article_views (article_id, author_id, viewer_id, view_date) VALUES
 (4, 7, 1, '2019-07-22'),
 (3, 4, 4, '2019-07-21'),
 (3, 4, 4, '2019-07-21');
+-- Result
+select distinct author_id as id  from views 
+where  author_id = viewer_id
+order by id
+
