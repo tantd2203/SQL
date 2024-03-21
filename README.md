@@ -1,1 +1,9 @@
-:))) nào xong thì viết
+# LeetCode 50 And I will update more algorithms later
+
+## Description
+
+This project hepl you understanding of SQL and I have Create database for you to easily check the results.
+
+
+## Thanks You <3 
+:whale:
