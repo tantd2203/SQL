@@ -2,7 +2,7 @@
 
 ## Description
 
-This project hepl you understanding of SQL and I have Create database for you to easily check the results.
+This project helps you understanding of SQL and I have Create database for you to easily check the results.
 
 
 ## Thanks You <3 
